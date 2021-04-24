@@ -1,2 +1,2 @@
 # login
-Exercpicios de Front End básico.
+Exercícios de Front End básico.
